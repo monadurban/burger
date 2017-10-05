@@ -1,4 +1,4 @@
-INSERT INTO burgers (burgerName, devoured, date) VALUES ('American', true, CURRENT_TIMESTAMP);
+INSERT INTO burgers (burgerName, devoured, date) VALUES ('American', false, CURRENT_TIMESTAMP);
 
 INSERT INTO burgers (burgerName, devoured, date) VALUES ('Southwest Style', true, CURRENT_TIMESTAMP);
 
